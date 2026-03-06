@@ -25,7 +25,9 @@ It includes multiple tables such as:
 5. Dashboard Creation
 6. Insight Generation
  ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](<img width="1307" height="736" alt="Screenshot 2026-03-06 195433" src="https://github.com/user-attachments/assets/417071ab-07aa-4d55-a4d6-3eea67be8841" />
+),<img width="869" height="403" alt="Screenshot 2026-03-06 194554" src="https://github.com/user-attachments/assets/15e24a46-eeec-4972-a100-013dd3fc2c22" />
+
 ## Key Insights
 - Weekday Vs Weekend (order_purchase_timestamp) Payment Statistics
 - Number of Orders with review score 5 and payment type as credit card.
