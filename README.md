@@ -26,7 +26,8 @@ It includes multiple tables such as:
 6. Insight Generation
  ## Dashboard Preview
 ![Dashboard Power-BI] <img width="1307" height="736" alt="Screenshot 2026-03-06 195433" src="https://github.com/user-attachments/assets/417071ab-07aa-4d55-a4d6-3eea67be8841" />
-,[Dashboard Excel]<img width="869" height="403" alt="Screenshot 2026-03-06 194554" src="https://github.com/user-attachments/assets/15e24a46-eeec-4972-a100-013dd3fc2c22" />
+[Dashboard Excel]
+<img width="869" height="403" alt="Screenshot 2026-03-06 194554" src="https://github.com/user-attachments/assets/15e24a46-eeec-4972-a100-013dd3fc2c22" />
 [Dashboard Tableau]<img width="1527" height="800" alt="Screenshot 2026-03-06 203643" src="https://github.com/user-attachments/assets/73eebe1f-9115-4e82-a4f2-63194e3aae32" />
 
 
